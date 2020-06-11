@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T17:55:17.447Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="97bw1BmcVScy0_Ldsara" version="13.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-11T18:10:59.853Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="iMgBAkF3BbAJvkbZulDD" version="13.2.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -77,8 +77,8 @@
         <mxCell id="A4fYRPUOJlLeQ5B8pnTf-13" value="Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640.75" y="524" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nN7B6M9PlUdlWclBBNx_-3" value="TableScan + Filter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="300" width="110.5" height="20" as="geometry" />
+        <mxCell id="nN7B6M9PlUdlWclBBNx_-3" value="TableScan + Filter + Sort by&amp;nbsp; ROWID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="310" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nN7B6M9PlUdlWclBBNx_-4" value="" style="curved=1;endArrow=classic;html=1;" parent="1" source="7baba1c4bc27f4b0-3" target="7baba1c4bc27f4b0-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
